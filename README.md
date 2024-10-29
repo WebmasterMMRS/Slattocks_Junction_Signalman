@@ -7,5 +7,7 @@ A control system for the display lights on the MMRS Slattocks Junction P4 model 
 ![Driver unit](driver_unit.png 'The driver unit')
 
 ## The Driver Unit - Mk3
-![Driver unit](driver_unit.png 'The driver unit'){width=300 height=200}
+<img src="driver_unit.png" alt="Driver unit"> 
 
+## The Driver Unit - Mk4
+<img src="driver_unit.png" alt="Driver unit" style="border:1px solid; box-shadow: 5px 5px 5px 10px #888;"> 
